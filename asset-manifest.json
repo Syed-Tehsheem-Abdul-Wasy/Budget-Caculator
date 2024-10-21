@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Budget-Caculator/static/css/main.683805d1.css",
+    "main.js": "/Budget-Caculator/static/js/main.0f7833b1.js",
+    "static/js/453.35fd161e.chunk.js": "/Budget-Caculator/static/js/453.35fd161e.chunk.js",
+    "index.html": "/Budget-Caculator/index.html",
+    "main.683805d1.css.map": "/Budget-Caculator/static/css/main.683805d1.css.map",
+    "main.0f7833b1.js.map": "/Budget-Caculator/static/js/main.0f7833b1.js.map",
+    "453.35fd161e.chunk.js.map": "/Budget-Caculator/static/js/453.35fd161e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.683805d1.css",
+    "static/js/main.0f7833b1.js"
+  ]
+}
